@@ -1,5 +1,5 @@
 ﻿# Modern GPT3
- 
+
 * React Functional components and their reusability
 * React file and folder structure
 * Fundamental CSS properties to master flex & grid
@@ -7,6 +7,11 @@
 * From soft and pleasant animations to complex gradients
 * Perfectly placed media queries for satisfactory responsiveness covering almost devices
 * And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
+
+### Install packages
+```shell
+npm i
+```
 
 ![Home](https://github.com/HassanMTS/Modern-UI-GPT3/assets/150341521/f9ba8bae-489b-4aa9-8aef-a28f6285ca8a)
 <h1>Modern Design</h1>
